@@ -1,0 +1,12 @@
+* {
+  margin: 0;
+  box-sizing: border-box;
+  padding: 0;
+}
+body {
+  font-family: "Abel", sans-serif;
+  @apply bg-regal-beige;
+}
+h1 {
+  font-family: "Old Standard TT", serif;
+}
